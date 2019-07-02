@@ -1,4 +1,4 @@
 Bootstrap: scratch
 
 %post
-    echo "hello from post"
+    echo "hello from post!"
